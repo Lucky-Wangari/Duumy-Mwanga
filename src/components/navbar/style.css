@@ -1,0 +1,35 @@
+.navbar{
+ background-color: rgb(251, 175, 120);
+padding: 15px;
+} 
+
+.navbar-links {
+list-style: none;
+padding: 0;
+margin: 0;
+display: flex;
+justify-content: flex-end;
+font-size: 16px;
+}
+
+.navbar-links li {
+margin-right: 95px;
+}
+
+.navbar-links li:last-child {
+margin-right: 0;
+}
+
+.navbar-links a {
+text-decoration: none;
+color: black;
+color: antiquewhite;
+}
+
+.navbar-links img{
+height: 5vh;
+width: 5vh;
+margin-right: 65%;
+}
+
+

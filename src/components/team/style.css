@@ -1,0 +1,14 @@
+.team-images > img{
+    width: 50%;
+    border-radius: 85px;
+}
+.team{
+    display: flex;
+    margin: 5%;
+    margin-left: 12%;
+}
+.team-section >h3 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+}

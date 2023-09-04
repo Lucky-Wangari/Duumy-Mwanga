@@ -1,0 +1,22 @@
+.mobile{
+    display: flex;
+    margin-left: 7%;
+    justify-content: space-between;
+    padding: 30px;
+    
+}
+.photo > img{
+    width: 90%;
+    height: 30vh;
+}
+.products-container{
+    background-color:rgb(251, 175, 120);
+    border-radius: 20px ;
+}
+.products > h2{
+    text-align: center;
+    font-size: 30px;
+}
+.second-div{
+    margin-top: 5%;
+}

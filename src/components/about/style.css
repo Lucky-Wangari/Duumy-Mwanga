@@ -1,0 +1,34 @@
+body{
+    /* margin: 0 15% 0 15%; */
+}
+
+.mission > p{
+  font-size: 20px;
+  margin-left: 10%;
+}
+.about{
+    display: flex;
+    margin-left: 7%;
+}
+.title > h2{
+    text-align: center;
+    margin-top: 4rem;
+    font-size: 30px;
+}
+.about .image{
+    border-radius: 20px;
+    height: 50vh;
+    margin-left: 15%;
+}
+.about .mission{
+    width: 50%;
+    /* border: solid 1px tomato; */
+    margin-left: 5%;
+}
+.mission > p{
+    margin-top: 10%;
+    margin-right: 5%;
+    font-size: 24px;
+    
+}
+

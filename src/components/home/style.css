@@ -1,0 +1,22 @@
+.home{
+    min-height: 90vh;
+    align-items: center;
+    background-image: url(../../assets/images/girl.png);
+    background-size: cover;
+    background-position: center;
+    margin: 2%;
+    border-radius: 20px;
+}
+.healthy{
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+    float: right;
+    margin: 27% 3% 0 0; 
+}
+.healthy .children{
+    margin-left: 15%;
+}
+.healthy .rickets{
+    margin-left: 30%;
+}
